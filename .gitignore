@@ -1,0 +1,43 @@
+# .DS_Store (macOS)
+.DS_Store
+
+# Fichiers de cache de macOS
+.AppleDouble
+.LSOverride
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.db
+*.sqlite3
+
+# Virtual environments (venv, env, etc.)
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/Editor files
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Other temporary files
+*.bak
+*.tmp
